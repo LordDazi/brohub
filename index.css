@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+.search-bar {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .dazi {
+    width: 300px;
+  }
+  MADAZI {
+    width: 600px;
+  }
+  .welcome-note {
+    color: white;
+  }
+  .logo {
+    height: 100px;
+    width: 600px;
+    margin-left: 300px;
+  }
+  .intro {
+    color: white;
+  }
+  .dazi-button {
+    background-color: rgb(214, 123, 3);
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    color: black;
+    height: 36px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 1s, color 1s;
+  }
+  .dazi-button:hover {
+    background-color:  black;
+    color:  rgb(214, 123, 3);
+  }
+  .dazi-button:active {
+    opacity: 0.5;
+  }
+  .LOUIS {
+    width: 600px;
+    margin-top: 10px;
+  }
+  .LV {
+    width: 300px;
+  }
+  .LONDON {
+    width: 600px;
+    margin-top: 10px;
+  }
+  .ld {
+    width: 300px;
+  }
+  .kelly {
+    width: 6oopx;
+    margin-top: 10px;
+  }
+  .king {
+    width: 300px;
+  }
+  .tafi {
+    width: 600px;
+    margin-top: 10px;
+  }
+  .tf {
+    width: 300px;
+  }
+
+  .david {
+    width: 600px;
+    margin-top: 10px;
+
+  }
+  .mukoto {
+    width: 300px;
+
+  }
+  .mateo {
+    width: 600px;
+    margin-top: 10px;
+
+
+  }
+  .teo {
+    width: 300px;
+  }
+  .frank {
+    width: 600px;
+    margin-top: 10px;
+  }
+  .muks {
+    width: 300px;
+  }
+  .outro {
+    margin-top: 20px;
+  }
+  .end {
+    color: rgb(214, 123, 3) ;
+  }
